@@ -19,3 +19,11 @@ Study hours:
     - 20:30~22:30
 
 I have not been able to put too much effort in `The Odin Project`. I wish I can put more time into it. As is the good guidanced curriculum for becoming a web developer. I will need to decided how many hours I need to spend on TOP.
+
+## 07/29
+
+Study hours:
+
+- Making a Git Tutorial for the coding club: 14:00~18:00 (8 tomato)
+
+Today, I was not able to do some practice on TOP. But I also know TOP should not be skipped. What should I do?
